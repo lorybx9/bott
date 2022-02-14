@@ -1,0 +1,14 @@
+{
+  "name": "lorybox9-bot-ds",
+  "version": "1.0.0",
+  "description": "questo è il bot ufficiale di lorybox9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lorybox9",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
